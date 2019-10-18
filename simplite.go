@@ -1,4 +1,4 @@
-package uitl
+package simplite
 
 import (
 	"database/sql"
